@@ -12,3 +12,9 @@ How to run the typescript code without generating javascript file
 7. Run npm i -D ts-node.
 8. Now add the 'singly-linked-list.ts' file inside the 'src/' folder.
 9. Run the command npx ts-node ./src/singly-linked-list.ts you will see the result in console.
+
+
+// Steps to run code in local.
+1. clone the repository.
+2. Run npm install.
+3. Run npx ts-node ./src/singly-linked-list.ts in terminal.
